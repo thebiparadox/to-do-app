@@ -1,2 +1,1 @@
-# to-do-app
-Created a to-do app for Bad Website's bootcamp
+Created a to-do app for Bad Website's bootcamp using [freeCodeCamp's Javascript and Data Structures curriculum](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-localstorage-by-building-a-todo-app/step-1)
